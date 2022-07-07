@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1646919561 source:d:\fci\me\programming ii projects\project 1\contactmanager\main.cpp
+	<iostream>
+	<Contact.h>
+
+1646849298 source:d:\fci\me\programming ii projects\project 1\contactmanager\src\email.cpp
+	"Email.h"
+
+1646848825 d:\fci\me\programming ii projects\project 1\contactmanager\include\email.h
+	<string>
+
+1646849951 source:d:\fci\me\programming ii projects\project 1\contactmanager\src\phone.cpp
+	"Phone.h"
+
+1646848825 d:\fci\me\programming ii projects\project 1\contactmanager\include\phone.h
+	<string>
+
+1646849314 source:d:\fci\me\programming ii projects\project 1\contactmanager\src\address.cpp
+	"Address.h"
+
+1646848792 d:\fci\me\programming ii projects\project 1\contactmanager\include\address.h
+	<string>
+
+1646905170 source:d:\fci\me\programming ii projects\project 1\contactmanager\src\user.cpp
+	"User.h"
+
+1646902465 d:\fci\me\programming ii projects\project 1\contactmanager\include\user.h
+	<Email.h>
+	<Phone.h>
+	<Address.h>
+	<string>
+	<iostream>
+
+1646921164 source:d:\fci\me\programming ii projects\project 1\contactmanager\src\contact.cpp
+	"Contact.h"
+
+1646919561 d:\fci\me\programming ii projects\project 1\contactmanager\include\contact.h
+	<iostream>
+	<User.h>
+	<string>
+
+1647189642 source:d:\fci\programming ii projects\project 1\contactmanager\main.cpp
+	<iostream>
+	<Contact.h>
+
+1646919561 d:\fci\programming ii projects\project 1\contactmanager\include\contact.h
+	<iostream>
+	<User.h>
+	<string>
+
+1646902465 d:\fci\programming ii projects\project 1\contactmanager\include\user.h
+	<Email.h>
+	<Phone.h>
+	<Address.h>
+	<string>
+	<iostream>
+
+1646848825 d:\fci\programming ii projects\project 1\contactmanager\include\email.h
+	<string>
+
+1646848825 d:\fci\programming ii projects\project 1\contactmanager\include\phone.h
+	<string>
+
+1646848792 d:\fci\programming ii projects\project 1\contactmanager\include\address.h
+	<string>
+
+1646849314 source:d:\fci\programming ii projects\project 1\contactmanager\src\address.cpp
+	"Address.h"
+
+1647189641 source:d:\fci\programming ii projects\project 1\contactmanager\src\contact.cpp
+	"Contact.h"
+
+1646849298 source:d:\fci\programming ii projects\project 1\contactmanager\src\email.cpp
+	"Email.h"
+
+1646849951 source:d:\fci\programming ii projects\project 1\contactmanager\src\phone.cpp
+	"Phone.h"
+
+1647453955 source:d:\fci\programming ii projects\project 1\contactmanager\src\user.cpp
+	"User.h"
+
